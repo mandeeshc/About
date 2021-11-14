@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mandeesh Singh (@mandeeshc)
-- 👀 I’m interested in Embedded System Development, Internet of Things & Front End Web Development 
-- 🌱 I’m currently learning IoT Protocols, Javascript, Jquery & NodeJS.
+- 👀 I’m interested in Embedded System Development & Internet of Things.
+- 🌱 I’m currently learning 32 bit Microcontrollers.
 - 💞️ I’m looking to collaborate on similar technologies.
 - 📫 How to reach me Mail : mandeeshc@gmail.com
 
